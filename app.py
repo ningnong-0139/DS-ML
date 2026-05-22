@@ -11,4 +11,6 @@ st.markdown (''':rainbow[ningnong]''')
 
 if st.button("💰 ระบบคำนวณส่วนลดตามยอดซื้อ"):
     st.switch_page("pages/app1_discount_calc.py")
+elif st.button("DATA Clean II"):
+    st.switch_page("pages/clean2_app.py")
 
