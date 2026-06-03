@@ -13,6 +13,6 @@ if st.button("💰 ระบบคำนวณส่วนลดตามยอ�
     st.switch_page("pages/app1_discount_calc.py")
 elif st.button("DATA Clean II"):
     st.switch_page("pages/clean2_app.py")
-elif st.button("การแปลงข้อมูล")
+elif st.button("การแปลงข้อมูล"):
     st.switch_page("page/transform_app.py")
 
