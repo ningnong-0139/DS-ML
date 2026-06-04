@@ -19,6 +19,6 @@ elif st.button("การวิเคราะห์ข้อมูลเชิ�
     st.switch_page("pages/EDA_app.py")
 elif st.button("พยากรณ์ยอดการขาย"):
     st.switch_page("pages/sale_predict.py")
-elif st.button("การพยากรณ์ระยะเวลาการให้ยริการขนส่ง"):
-    st.switch_page("pages/truc_predict.py")
+elif st.button("การพยากรณ์ระยะเวลาการให้บริการขนส่ง"):
+    st.switch_page("pages/truck_predict.py")
 
