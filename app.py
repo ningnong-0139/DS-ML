@@ -18,5 +18,5 @@ elif st.button("การแปลงข้อมูล"):
 elif st.button("การวิเคราะห์ข้อมูลเชิงสำรวจ"):
     st.switch_page("page/EDA_app.py")
 elif st.button("พยากรณ์ยอดการขาย"):
-    st.switch_page(page/sale_predict.py)
+    st.switch_page("page/sale_predict.py")
 
