@@ -25,4 +25,7 @@ elif st.button("การจำแนกประเภทข้อมูลย�
     st.switch_page("pages/classify_redbull_sale.py")
 elif st.button("การจัดกลุ่มข้อมูลจากข้อมูลลูกค้า"):
     st.switch_page("pages/clustering_segment.py")
+elif st.button("ระบบแนะนำสินค้าจาก market Basket Analysis"):
+    st.switch_page("pages/association_item.py")
+
 
