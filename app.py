@@ -23,4 +23,6 @@ elif st.button("การพยากรณ์ระยะเวลาการ�
     st.switch_page("pages/truck_predict.py")
 elif st.button("การจำแนกประเภทข้อมูลยอดขาย"):
     st.switch_page("pages/classify_redbull_sale.py")
+elif st.button("การจัดกลุ่ม"):
+    st.switch_page("pages/clustering_segment.py")
 
